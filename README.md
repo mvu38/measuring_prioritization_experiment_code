@@ -1,5 +1,5 @@
 # measuring_prioritization_experiment_code
-Each folder in this repository contains the code used to run one of the experiments reported in Abir, Y. & Hassin, R. R. (In prep.). Multi-Method Measurement of Prioritization for Visual Awareness.
+Each folder in this repository contains the code used to run one of the experiments reported in Abir, Y. & Hassin, R. R. (In prep.). _Multi-Method Measurement of Prioritization for Visual Awareness_.
 
 Experiments 1a, 1b, 3a and 3b run on Psychtoolbox for Matlab. We achieved excellent presentation timings only when running in a Linux environment.
 
